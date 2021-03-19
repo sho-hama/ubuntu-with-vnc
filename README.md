@@ -6,6 +6,7 @@ docker-compose up -d
 ```
 
 ## vnc接続方法
+パスワードは'password'
 
 ```
 vnc://localhost:5901
